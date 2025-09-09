@@ -59,3 +59,8 @@ a {
 .link:hover {
 color: #555;
 }
+
+.sentance{
+  padding: 0%;
+  color: blue;
+}
